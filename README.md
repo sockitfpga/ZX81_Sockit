@@ -1,6 +1,7 @@
 # ZX80 / ZX81 for Sockit
 
 Ported from https://github.com/MiSTer-devel/ZX81_MiSTer according from Somhi sockit template. 
+
 Follows original readme file.
 
 # [ZX80](https://en.wikipedia.org/wiki/ZX80) / [ZX81](https://en.wikipedia.org/wiki/ZX81) for MiSTer Platform
